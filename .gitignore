@@ -1,0 +1,23 @@
+-- gere um arquivo .gitignore
+# Ignore node_modules
+node_modules/
+# Ignore build output
+dist/
+# Ignore environment variables
+.env
+# Ignore logs
+logs/
+# Ignore coverage reports
+coverage/
+# Ignore IDE specific files
+.idea/
+# Ignore OS generated files
+.DS_Store
+# Ignore npm debug log
+npm-debug.log*
+# Ignore yarn debug log
+yarn-debug.log*
+# Ignore package-lock.json
+package-lock.json
+# Ignore yarn.lock
+yarn.lock
